@@ -1,0 +1,35 @@
+body{
+    background-color: #1d1d1d;
+    color: aliceblue;
+    font-family: 'Overpass Mono';
+}
+.header{
+    display: flex;
+    background-color: #464b55;
+    margin: 0;
+    padding: 10px;
+    margin: -8px;
+}
+.header img{
+    width: 100px;
+}
+.header h1{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.cont{
+    margin-top: 30px;
+    padding: 0 60px 0 60px;
+}
+.post{
+    background-color: #282c34;
+    margin-bottom: 15px;
+    padding: 5px 20px 5px 20px;
+    border-radius: 12px;
+}
+.post h4{
+    color: #98c379;
+}
+.post span{
+    color: #61afef;
+}
